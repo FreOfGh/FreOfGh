@@ -1,4 +1,4 @@
-# 👋 Hola, soy Simón Torres
+# 👋 Hola, soy Valentin Sanders
 
 Soy **desarrollador de software, docente técnico y entusiasta de la ciberseguridad**, con experiencia en la construcción de plataformas educativas, sistemas backend y proyectos tecnológicos orientados a la formación técnica y la sostenibilidad institucional.
 
@@ -78,8 +78,7 @@ Consolidar proyectos tecnológicos que integren **desarrollo seguro, educación 
 
 ## 📫 Contacto
 
-- GitHub: https://github.com/TU_USUARIO
-- Email: admin@sarastore.com
+- GitHub: https://github.com/FreOfGh
 
 ---
 
